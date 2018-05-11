@@ -9,10 +9,13 @@ problems and has you implement their solutions in the language of your choice.
 Since the vast majority of the time I would write my responses to these
 questions in Python, I decided to make a repository for my solutions!
 
-Note that these problems are the intellectual property of Leetcode. I make no
-claim of copyright nor any guarantees that this repository will stay up. It's
-purely for educational purposes and each problem links back to its
+Note that these problems are the intellectual property of Leetcode. I make
+no claim of copyright nor any guarantees that this repository will stay up.
+It's purely for educational purposes and each problem links back to its
 corresponding Leetcode page.
+
+If you would like to do this, too, please fork my repository that contains
+blank solutions [here](https://github.com/cfoust/leetcode-problems).
 
 ## Problems
 
