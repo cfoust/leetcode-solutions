@@ -20,7 +20,7 @@ blank solutions [here](https://github.com/cfoust/leetcode-problems).
 ## Problems
 
 ### Easy
-* [ ] [1-bit and 2-bit Characters](problems/1-bit-and-2-bit-characters/)
+* [X] [1-bit and 2-bit Characters](problems/1-bit-and-2-bit-characters/)
 * [ ] [Add Binary](problems/add-binary/)
 * [ ] [Add Digits](problems/add-digits/)
 * [ ] [Add Strings](problems/add-strings/)
