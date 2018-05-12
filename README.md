@@ -21,7 +21,7 @@ blank solutions [here](https://github.com/cfoust/leetcode-problems).
 
 ### Easy
 * [X] [1-bit and 2-bit Characters](problems/1-bit-and-2-bit-characters/)
-* [ ] [Add Binary](problems/add-binary/)
+* [X] [Add Binary](problems/add-binary/)
 * [ ] [Add Digits](problems/add-digits/)
 * [ ] [Add Strings](problems/add-strings/)
 * [ ] [Arranging Coins](problems/arranging-coins/)
