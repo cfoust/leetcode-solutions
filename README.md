@@ -22,7 +22,7 @@ blank solutions [here](https://github.com/cfoust/leetcode-problems).
 ### Easy
 * [X] [1-bit and 2-bit Characters](problems/1-bit-and-2-bit-characters/)
 * [X] [Add Binary](problems/add-binary/)
-* [ ] [Add Digits](problems/add-digits/)
+* [X] [Add Digits](problems/add-digits/)
 * [ ] [Add Strings](problems/add-strings/)
 * [ ] [Arranging Coins](problems/arranging-coins/)
 * [ ] [Array Partition I](problems/array-partition-i/)
