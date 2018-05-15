@@ -24,7 +24,7 @@ blank solutions [here](https://github.com/cfoust/leetcode-problems).
 * [X] [Add Binary](problems/add-binary/)
 * [X] [Add Digits](problems/add-digits/)
 * [X] [Add Strings](problems/add-strings/)
-* [ ] [Arranging Coins](problems/arranging-coins/)
+* [X] [Arranging Coins](problems/arranging-coins/)
 * [ ] [Array Partition I](problems/array-partition-i/)
 * [ ] [Assign Cookies](problems/assign-cookies/)
 * [ ] [Average of Levels in Binary Tree](problems/average-of-levels-in-binary-tree/)
