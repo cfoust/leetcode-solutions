@@ -27,7 +27,7 @@ blank solutions [here](https://github.com/cfoust/leetcode-problems).
 * [X] [Arranging Coins](problems/arranging-coins/)
 * [X] [Array Partition I](problems/array-partition-i/)
 * [X] [Assign Cookies](problems/assign-cookies/)
-* [ ] [Average of Levels in Binary Tree](problems/average-of-levels-in-binary-tree/)
+* [X] [Average of Levels in Binary Tree](problems/average-of-levels-in-binary-tree/)
 * [ ] [Balanced Binary Tree](problems/balanced-binary-tree/)
 * [ ] [Base 7](problems/base-7/)
 * [ ] [Baseball Game](problems/baseball-game/)
